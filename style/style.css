@@ -1,0 +1,199 @@
+.body {
+	font: 14px Arial;
+}
+
+.wrapper {
+	width: 960px;
+	margin: 0 auto;
+	font: 14px arial;
+	line-height: 22px;
+}
+
+.header {
+	margin: 0 auto;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.logo {
+	width: 122px;
+	height: 108px;
+}
+
+.logo-3 {
+	width: 100%;
+	height: 134px;
+}
+
+.logo2 {
+	display: flex;
+	justify-content: flex-end;
+	width: 757px;
+	height: 325px;
+}
+
+.header_content {
+	width: 279px;
+	height: 108px;
+	background-color: #777777;
+}
+
+.header_right {
+	width: 513px;
+	height: 108px;
+	background-color: #777777;
+	text-align: right;
+	padding-right: 25px;
+	box-sizing: border-box;
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
+}
+.telnumber {
+	text-decoration: none;
+
+}
+
+.header_right a:link {
+	color: white;
+	line-height: 24px;
+	
+}
+
+.line2 {
+	width: 960px;
+	height: 1px;
+	background-color: #696969;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.line {
+	width: 960px;
+	height: 1px;
+	background-color: #696969;
+	margin-top: 20px;
+}
+
+.parts_content {
+	width: 757px;
+	height: 325px;
+	margin-top: 20px;
+	margin-bottom: 19px;
+}
+
+.site_developing {
+	width: 184px;
+	background-color: #777777;
+	height: 335px;
+	margin-top: 20px;
+	text-align: left;
+}
+.site_developing ul{
+	list-style: none;
+	padding-left: 13px;
+}
+.site_developing ul a{
+	text-decoration: none;
+}
+
+.big_text {
+	margin-top: 20px;
+	padding: 3px 0px 0px 22px;
+	width: 757px;
+	height: 210px;
+	background-color: #dcdcdc;
+	box-sizing: border-box;
+	font-size: 14px;
+}
+
+.big_text p {
+	font-size: 15px;
+	margin-top: 28px;
+}
+
+.big_text ul {
+	margin-top: 27px;
+}
+
+.big_text ul li {
+	margin-bottom: 6px;
+	font-size: 14px;
+}
+
+.main_bottom {
+	display: flex;
+	justify-content: space-between;
+	width: 757px;
+	height: 200px;
+}
+
+.first_list {
+	width: 297px;
+	height: 180px;
+	background-color: grey;
+	box-sizing: border-box;
+	list-style-type: none;
+}
+.first_list ul{
+	columns: 2;
+	color: white;
+}
+.first_list ul li {
+	list-style: none;
+}
+.second_list {
+	width: 297px;
+	height: 180px;
+	background-color: grey;
+	box-sizing: border-box;
+}
+.second_list ul li {
+	list-style: square outside;
+	color: white;
+}
+
+.main {
+	display: flex;
+	justify-content: space-between;
+}
+
+.left_bar {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.half_main {
+	background:lightgray;
+	width: 352px;
+	padding: 14px 0px 0px 19px;
+	
+}
+.bar_bottom {
+	display: flex;
+	justify-content: flex-end;
+}
+
+.footer {
+	display: flex;
+	justify-content: space-between;
+	margin: auto;
+}
+
+.right_part {
+	display: flex;
+	align-items: flex-end;
+}
+
+.right_part2 {
+	width: 308px;
+	height: 75px;
+	background-color: grey;
+}
+.logo__div {
+	display: flex;
+	justify-content: space-between;
+	flex-direction: column;
+}
